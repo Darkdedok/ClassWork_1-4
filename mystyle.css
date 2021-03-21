@@ -1,0 +1,103 @@
+.row {
+    flex-direction: row;
+    display: flex;
+    width: 100%;
+}
+.column{
+    flex-direction: column;
+    display: flex;
+    width: 100%;
+}
+.box {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 1px;
+}
+.wrap{
+    flex-wrap: wrap;
+}
+.boxSize-A {
+    height: 100px;
+}
+
+.boxSize-B-1 {
+    height: 400px;
+    width: 70%;
+
+}
+
+.boxSize-C-1 {
+    height: 400px;
+    width: 30%;
+
+}
+
+
+.boxSize-B-2 {
+    height: 250px;
+
+}
+
+.boxSize-F-2 {
+    height: 500px;
+    width: 30%;
+
+}
+
+.boxSize-H-3 {
+    height: 496px;
+    width: 30%;
+
+}
+
+.boxSize-cube {
+    width: 32.8%;
+    height: 245px;
+
+}
+
+
+.ColourAqua {
+    background: aqua;
+}
+
+.ColourSalmon {
+    background: salmon;
+}
+
+.ColourCrimson {
+    background: crimson;
+}
+
+.ColourSlateblue {
+    background: slateblue;
+}
+
+.ColourSilver {
+    background: silver;
+}
+
+.ColourDarkorange {
+    background: darkorange;
+}
+
+.ColourRed {
+    background: red;
+}
+
+.ColourCoral {
+    background: coral;
+}
+
+.ColourGreenyellow {
+    background: greenyellow;
+}
+
+.Border {
+    border: 1px solid black;
+    border-radius: 15px;
+    margin: 1px;
+}
